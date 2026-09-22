@@ -25,6 +25,7 @@ Networking: Retrofit2 + OkHttp (Gson converter)
 Concurrency: Kotlin Coroutines
 Security: BCrypt password hashing (at.favre.lib:bcrypt), AndroidX Security Crypto dependency for encrypted storage
 Min SDK: 24 · Target/Compile SDK: 35
+
 Project structure
 app/src/main/java/com/wardcare/app/
 ├── data/
