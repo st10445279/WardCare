@@ -78,3 +78,4 @@ Getting started
 Clone the repository and open it in Android Studio (Ladybug or newer recommended).
 Let Gradle sync — the project uses AGP 8.7.2 and Kotlin 2.0.21.
 Run on an emulator or device with API level 24+.
+
